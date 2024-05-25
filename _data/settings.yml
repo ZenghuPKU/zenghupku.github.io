@@ -12,7 +12,7 @@ menu:
 - {name: 'Contact', url: 'contact.html'}
 - {name: 'Home',   url: ''}
 - {name: 'Join', url: 'join.html'}
-- {name: 'Publications', url: 'Publications.html'}
+- {name: 'Publications', url: 'publications.html'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Team', url: 'team.html'}
 
