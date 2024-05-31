@@ -4,4 +4,14 @@ title: Contact
 permalink: /contact
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+**Primary contact:** Hu Zeng
+
+**Email:** huzeng@pku.edu.cn
+
+**Phone:** (010) 62767687
+
+**Address:** Room 230, Comprehensive Research Building 2, Peking University
+
+**Administrative contact:** Meng Tang
+
+**Email:** tmeng89@pku.edu.cn
