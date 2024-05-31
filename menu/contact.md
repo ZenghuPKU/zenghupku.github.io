@@ -18,4 +18,4 @@ permalink: /contact
 **Email:** tmeng89@pku.edu.cn
 
 
-<iframe src="/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
+<iframe src="https://github.com/ZenghuPKU/zenghupku.github.io/blob/master/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
