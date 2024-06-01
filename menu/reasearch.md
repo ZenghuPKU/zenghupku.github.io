@@ -5,7 +5,8 @@ permalink: /research
 image: research.png
 ---
 
-	The flow of genetic information in cells is from DNA through RNA to protein, which is a fundamental principle and termed the central dogma of molecular biology. Our research program focuses on the central dogma to develop sequencing technologies with spatial, temporal, and single-cell resolution. We apply these sequencing technologies to decipher gene regulatory networks and discover neurological disease mechanism in spatial and temporal dimensions. The specific research content includes the following three aspects:
+The flow of genetic information in cells is from DNA through RNA to protein, which is a fundamental principle and termed the central dogma of molecular biology. Our research program focuses on the central dogma to develop sequencing technologies with spatial, temporal, and single-cell resolution. We apply these sequencing technologies to decipher gene regulatory networks and discover neurological disease mechanism in spatial and temporal dimensions. The specific research content includes the following three aspects:
+
 ![image](https://zenghulab.github.io/picx-images-hosting/image/research.231pjlwm8o.webp)
 
 ### 1) Developing spatial multiomics technologies
