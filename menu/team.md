@@ -8,3 +8,7 @@ test1
 
 test2 
 <img src="{{site.baseurl}}/assets/img/team/test.png" alt="">
+
+test3 
+![image](/assets/img/team/test.png)
+
