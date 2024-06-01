@@ -9,8 +9,7 @@ permalink: /publications
 
 
 J Ren#, H Zhou#, **H Zeng#**, C K Wang, J Huang, X Qiu, X Sui, Q Li, X Wu, Z Lin, J A Lo, K Maher, Y He, X Tang, J Lam, H Chen, B Li, D E Fisher, J Liu, X Wang*. [Spatiotemporally resolved transcriptomics reveals the subcellular RNA kinetic landscape.](https://www.nature.com/articles/s41592-023-01829-8)  **Nat. Methods** (2023) 20, 695–705.
-
-[get the PDF]({{ site.url }}/assets/PDF/FPDF%2Fs41592-023-01829-8.pdf)
+[get the PDF]({{ site.url }}/assets/s41592-023-01829-8.pdf)
 
 
 **H Zeng#**, J Huang#, H Zhou#, W J. Meilandt, B Dejanovic, Y Zhou, C J. Bohlen, S Lee, J Ren, A Liu, Z Tang, H Sheng, J Liu, M Sheng*, X Wang*. [Integrative in situ mapping of single-cell transcriptional states and tissue histopathology in a mouse model of Alzheimer's disease.](https://www.nature.com/articles/s41593-022-01251-x)  **Nat. Neurosci.** (2023) 26, 430–446.
