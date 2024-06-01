@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to Zenghu’s lab!
 permalink: /blog
 ---
