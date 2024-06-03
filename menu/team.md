@@ -3,10 +3,9 @@ layout: page
 title: Team Member of Zeng's Lab
 permalink: /team
 ---
-### Team
 #### Group leader
 <div align=center> 
-<img src="{{site.baseurl}}/assets/img/team/zenghu.jpg"/>
+<img src="{{site.baseurl}}/assets/img/team/zenghu.jpg"/ height="50%">
 </div>
 Hu Zeng is currently an assistant professor at the College of Future Technology and the Center for Life Sciences at Peking University. He obtained his Ph.D. in Biochemistry and Molecular Biology from Peking University under the supervision of Professor Chengqi Yi, and subsequently conducted postdoctoral research at the Broad Institute of MIT and Harvard with Professor Xiao Wang.
 
