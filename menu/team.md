@@ -40,10 +40,10 @@ Hu Zeng is currently an assistant professor at the College of Future Technology 
 
 <table style="border: 0;">
 <tr> 
-<td "border: 0;">
+<td tyle="border: 0;">
 <img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="200px"/> 
 </td> 
-<td "border: 0;">
+<td tyle="border: 0;">
 <h4>Hu Zeng (曾虎)</h4>
 <p class="text-muted" style="font-size:90%;line-height: 1em;">Assistant Professor at Peking University</p>
                 <p style="font-size:90%">Email: huzeng &lt;at&gt; pku.edu.cn<br>Tel: +86 (010) 62767687 <br>
