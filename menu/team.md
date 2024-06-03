@@ -11,7 +11,7 @@ permalink: /team
 
             <div class="col-md-3 col-sm-3">
               <a href="https://future.pku.edu.cn/jsdw/jy/fzyxs1/11e271c0c09e4b919554a49d90093b98.htm">
-                <img class="rounded mx-auto d-block" src="{{site.baseurl}}/assets/img/team/zenghu.jpg" width="165px">
+                <img class="rounded mx-auto d-block" src="{{site.baseurl}}/assets/img/team/zenghu.jpg" width="166px">
               </a>
             </div>
     
