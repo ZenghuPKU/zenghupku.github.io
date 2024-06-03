@@ -19,7 +19,7 @@ body {
   }
 }
 
-h1{
+h1 {
   font-size: 2rem;
 }
 
@@ -77,4 +77,16 @@ table, th, td {
 th, td {
   padding: 15px;
   text-align: left;
+}
+
+/*
+  No Border Table
+*/
+.no-border-table {
+  border: none;
+  border-collapse: collapse;
+}
+
+.no-border-table, .no-border-table th, .no-border- table td {
+  border: none;
 }
