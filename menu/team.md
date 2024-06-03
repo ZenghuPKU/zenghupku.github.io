@@ -4,8 +4,16 @@ title: Team Member of Zeng's Lab
 permalink: /team
 ---
 #### Group leader
+测试1
 <div align=center> 
-<img src="{{site.baseurl}}/assets/img/team/zenghu.jpg" height="25%">
+<img src="{{site.baseurl}}/assets/img/team/zenghu.jpg" height="300">
+</div>
+Hu Zeng is currently an assistant professor at the College of Future Technology and the Center for Life Sciences at Peking University. He obtained his Ph.D. in Biochemistry and Molecular Biology from Peking University under the supervision of Professor Chengqi Yi, and subsequently conducted postdoctoral research at the Broad Institute of MIT and Harvard with Professor Xiao Wang.
+
+测试2
+
+<div align=center> 
+<img src="{{site.baseurl}}/assets/img/team/zenghu.jpg" style="zoom:10%">
 </div>
 Hu Zeng is currently an assistant professor at the College of Future Technology and the Center for Life Sciences at Peking University. He obtained his Ph.D. in Biochemistry and Molecular Biology from Peking University under the supervision of Professor Chengqi Yi, and subsequently conducted postdoctoral research at the Broad Institute of MIT and Harvard with Professor Xiao Wang.
 
@@ -26,7 +34,7 @@ Hu Zeng is currently an assistant professor at the College of Future Technology 
 <p>描述3</p>
 </td>
 <td>
-<img src="{{site.baseurl}}/assets/img/team/test.png" style="zoom:50%"  alt="图片名称"/>
+<img src="{{site.baseurl}}/assets/img/team/test.png" style="zoom:5%"  alt="图片名称"/>
 </td>
 </tr>
 </table>    
