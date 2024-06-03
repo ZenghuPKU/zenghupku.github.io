@@ -34,7 +34,7 @@ Hu Zeng is currently an assistant professor at the College of Future Technology 
 
 测试2 
 
-<table>
+<table style="border: 0;">
 <tr> 
 <td>
 <img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="200px"/> 
