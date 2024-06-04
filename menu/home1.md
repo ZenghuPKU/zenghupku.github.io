@@ -98,9 +98,9 @@ width: 49%;
 
       </div>
       <div class="content">
-        <h4>Welcome to the Zhu Lab</h4>
+        <h4>Welcome to the Zeng Lab</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-      <p style="font-size:90%">这里是第一张图片的描述文字。</p>
+      <p style="font-size:90%">The flow of genetic information in cells is from DNA through RNA to protein, which is a fundamental principle and termed the central dogma of molecular biology. Our research program focuses on the central dogma to develop sequencing technologies with spatial, temporal, and single-cell resolution. We apply these sequencing technologies to decipher gene regulatory networks and discover neurological disease mechanism in spatial and temporal dimensions. </p>
       <a class="btn" href="/research.html">Research</a>
       </div>
   </li>
