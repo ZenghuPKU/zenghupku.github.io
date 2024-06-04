@@ -4,13 +4,12 @@ title:
 permalink: /team
 ---
 
-
-测试2
-<h2>Group Leader</h2>
+测试 添加只有一人的部分
+<h2 align="center">Group Leader</h2>
 <table >
 <tr> 
 <td >
-<img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="600px"/> 
+<img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="800px"/> 
 </td> 
 <td>
 <h4>Hu Zeng (曾虎)</h4>
@@ -24,16 +23,15 @@ permalink: /team
 </tr>
 </table>
 
-Hu Zeng is currently an assistant professor at the College of Future Technology and the Center for Life Sciences at Peking University. He obtained his Ph.D. in Biochemistry and Molecular Biology from Peking University under the supervision of Professor Chengqi Yi, and subsequently conducted postdoctoral research at the Broad Institute of MIT and Harvard with Professor Xiao Wang.
-<h2>Postdoctoral Fellow</h2>
+<h2 align="center">Postdoctoral Fellow</h2>
 
-<h2>Graduate</h2>
+<h2 align="center">Graduate</h2>
+<div class="container"> <div class="item"> <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" "> <p>这里是第一张图片的描述文字。</p><p>test1。</p> </div> <div class="item"> <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt=" "> <p>这里是第二张图片的描述文字。</p> <p>test2</p></div> </div>
+
+<h2 align="center">Undergraduate</h2>
 
 
-<h2>Undergraduate</h2>
-
-
-<h2>Lab Manager</h2>
+<h2 align="center">Lab Manager</h2>
 
 <div align="center">
 <table rules="none">
