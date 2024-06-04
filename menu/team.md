@@ -10,7 +10,7 @@ permalink: /team
 <table >
 <tr> 
 <td >
-<img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="300px"/> 
+<img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="600px"/> 
 </td> 
 <td>
 <h4>Hu Zeng (曾虎)</h4>
