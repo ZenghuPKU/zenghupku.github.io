@@ -42,74 +42,6 @@ permalink: /team
 
 <h2 align="center">Current Team Member</h2>
 
-
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 50%;">
-      <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" " width="300">
-    </td>
-    <td>
-    <h4>Jie Ren(任杰)</h4>
-    <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-     <p  style="font-size:90%" > 这里是第一张图片的描述文字。</p>
-	<a href="[https://github.com/ZenghuPKU](https://github.com/ZenghuPKU)" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-	<a href="[mailto:huzeng@pku.edu.cn](mailto:huzeng@pku.edu.cn)" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </td>
-    <td style="width: 50%;">
-      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2" width="300">
-    </td>
-    <td>
-    <h4>Meng Tang (唐萌)</h4>
-    <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p  style="font-size:90%" > Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/assets/img/team/test3.jpg" alt=" " width="300">
-    </td>
-    <td>
-    <h4>NAME3 (名字)</h4>
-    <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-     <p  style="font-size:90%" > 这里是第一张图片的描述文字。</p>
-	<a href="[https://github.com/ZenghuPKU](https://github.com/ZenghuPKU)" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-	<a href="[mailto:huzeng@pku.edu.cn](mailto:huzeng@pku.edu.cn)" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2" width="300">
-    </td>
-    <td>
-    <h4>NAME4 (名字2)</h4>
-      这里是第二张图片的描述文字。
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <img src="{{site.baseurl}}/assets/img/team/test5.jpg" alt=" " width="300">
-    </td>
-    <td>
-    <h4>NAME3 (名字)</h4>
-    <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-     <p  style="font-size:90%" > 这里是第一张图片的描述文字。</p>
-	<a href="[https://github.com/ZenghuPKU](https://github.com/ZenghuPKU)" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-	<a href="[mailto:huzeng@pku.edu.cn](mailto:huzeng@pku.edu.cn)" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </td>
-    <td>
-      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2" width="300">
-    </td>
-    <td>
-    <h4>NAME4 (名字2)</h4>
-      这里是第二张图片的描述文字。
-    </td>
-  </tr>
-</table>
-
 <table>
   <tr>
     <td class="img-cell">
@@ -132,25 +64,32 @@ permalink: /team
     </td>
   </tr>
 </table>
-<h2 align="center">Undergraduate</h2>
+
+<table>
+  <tr>
+    <td class="img-cell">
+      <img src="{{site.baseurl}}/assets/img/team/chengchen.png" alt=" ">
+    </td>
+    <td class="text-cell">
+      <h4>Chen Cheng(程臣)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (incoming PhD student)</p>
+      <p style="font-size:90%">MPhil Biomedical Science ,HKU</p>
+      <p style="font-size:90%">Bsc biology, Double Major English literature, Zhejiang University</p>
+      <a href="https://github.com/chengarthur" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="mailto:zhizff74@connect.hku.hk" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </td>
+    <td class="img-cell">
+      <img src="{{site.baseurl}}/assets/img/team/ye.jpg" alt="Description of image 2">
+    </td>
+    <td class="text-cell">
+      <h4>Lingyuan YE(叶凌源)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">Bsc, bioinformatics, Zhejiang University</p>
+      <a href="https://github.com/ibimanji" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="yely23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </td>
+  </tr>
+</table>
 
 
-<h2 align="center">Lab Manager</h2>
-
-<div align="center">
-<table rules="none">
-<tr>
-<td>
-<p>描述1</p>
-<p>描述2</p>
-<p>描述3</p>
-</td>
-<td>
-<img src="{{site.baseurl}}/assets/img/team/test.png" style="zoom:5%"  alt="图片名称"/>
-</td>
-</tr>
-</table>    
-</div>
-
-<img src="{{site.baseurl}}/assets/img/team/test.png" alt="">
 
