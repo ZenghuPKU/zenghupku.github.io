@@ -133,6 +133,7 @@ permalink: /team
   </tr>
 </table>
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <table>
   <tr>
@@ -158,6 +159,8 @@ permalink: /team
   </tr>
 </table>
 =======
+<h2 align="center">Undergraduate</h2>
+>>>>>>> parent of 91c552a (test)
 <h2 align="center">Undergraduate</h2>
 >>>>>>> parent of 91c552a (test)
 
