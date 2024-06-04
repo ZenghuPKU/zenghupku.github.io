@@ -67,7 +67,7 @@ permalink: /team
 <table>
   <tr>
     <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/chengchen.png" alt=" ">
+      <img src="{{site.baseurl}}/assets/img/team/cc.png" alt=" ">
     </td>
     <td class="text-cell">
       <h4>Chen Cheng(程臣)</h4>
