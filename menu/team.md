@@ -3,8 +3,25 @@ layout: page
 title: 
 permalink: /team
 ---
+<style>
+  table {
+    width: 100%;
+  }
+  .img-cell {
+    width: 25%; /* 分配25%宽度给图片 */
+  }
+  .img-cell img {
+    width: 100%; /* 图片宽度自适应单元格 */
+    height: auto;
+  }
+  .text-cell {
+    width: 25%; /* 分配25%宽度给文字 */
+  }
+</style>
 
-测试 添加只有一人的部分
+
+
+
 <h2 align="center">Group Leader</h2>
 <table >
 <tr> 
@@ -93,7 +110,28 @@ permalink: /team
   </tr>
 </table>
 
-
+<table>
+  <tr>
+    <td class="img-cell">
+      <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" ">
+    </td>
+    <td class="text-cell">
+      <h4>Jie Ren(任杰)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
+      <p style="font-size:90%">这里是第一张图片的描述文字。</p>
+      <a href="https://github.com/ZenghuPKU" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="mailto:huzeng@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </td>
+    <td class="img-cell">
+      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
+    </td>
+    <td class="text-cell">
+      <h4>Meng Tang (唐萌)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
+    </td>
+  </tr>
+</table>
 <h2 align="center">Undergraduate</h2>
 
 
