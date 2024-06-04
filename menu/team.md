@@ -3,7 +3,21 @@ layout: page
 title: 
 permalink: /team
 ---
-<style> table { width: 100%; } .img-cell { width: 50%; /* 调整为50%以适应一行两个单元格的布局 */ display: flex; justify-content: center; align-items: center; /* 垂直居中图片 */ } .img-cell img { width: 100%; /* 图片宽度自适应单元格 */ height: auto; max-height: 800px; /* 最大高度限制 */ object-fit: cover; /* 保持宽高比 */ } .text-cell { width: 50%; /* 调整为50%以适应一行两个单元格的布局 */ display: flex; flex-direction: column; justify-content: center; /* 垂直居中文本 */ } </style>
+<style>
+  table {
+    width: 100%;
+  }
+  .img-cell {
+    width: 25%; /* 分配25%宽度给图片 */
+  }
+  .img-cell img {
+    width: 100%; /* 图片宽度自适应单元格 */
+    height: auto;
+  }
+  .text-cell {
+    width: 25%; /* 分配25%宽度给文字 */
+  }
+</style>
 
 
 
@@ -27,6 +41,7 @@ permalink: /team
 </table>
 
 <h2 align="center">Current Team Member</h2>
+
 <table>
   <tr>
     <td class="img-cell">
@@ -40,7 +55,7 @@ permalink: /team
       <a href="mailto:huzeng@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </td>
     <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/tangmeng.jpg" alt="Description of image 2">
+      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
     </td>
     <td class="text-cell">
       <h4>Meng Tang (唐萌)</h4>
@@ -48,6 +63,9 @@ permalink: /team
       <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td class="img-cell">
       <img src="{{site.baseurl}}/assets/img/team/chengchen.png" alt=" ">
@@ -65,10 +83,11 @@ permalink: /team
     </td>
     <td class="text-cell">
       <h4>Lingyuan YE(叶凌源)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Bsc, bioinformatics, Zhejiang University</p>
-      <a href="https://github.com/ibimanji" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-      <a href="yely23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">P</p>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
     </td>
   </tr>
 </table>
+
+
+
