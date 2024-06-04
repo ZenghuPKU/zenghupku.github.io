@@ -23,10 +23,32 @@ permalink: /team
 </tr>
 </table>
 
-<h2 align="center">Postdoctoral Fellow</h2>
+<h2 align="center">Current Team Member</h2>
 
-<h2 align="center">Graduate</h2>
-<div class="container"> <div class="item"> <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" " width="300px> <p>这里是第一张图片的描述文字。</p><p>test1。</p> </div> <div class="item"> <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt=" " width="300px> <p>这里是第二张图片的描述文字。</p> <p>test2</p></div> </div>
+
+<table>
+  <tr>
+    <td>
+      <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" " width="300">
+    </td>
+    <td>
+    <h4>NAME (名字)</h4>
+    <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
+      
+     <p  style="font-size:90%" 这里是第一张图片的描述文字。</p>
+	<a href="[https://github.com/ZenghuPKU](https://github.com/ZenghuPKU)" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+	<a href="[mailto:huzeng@pku.edu.cn](mailto:huzeng@pku.edu.cn)" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </td>
+    <td>
+      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2" width="300">
+    </td>
+    <td>
+    <h4>NAME2 (名字2)</h4>
+      这里是第二张图片的描述文字。
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="center">Undergraduate</h2>
 
