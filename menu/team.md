@@ -8,14 +8,22 @@ permalink: /team
     width: 100%;
   }
   .img-cell {
-    width: 25%; /* 分配25%宽度给图片 */
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* 垂直居中图片 */
   }
   .img-cell img {
     width: 100%; /* 图片宽度自适应单元格 */
     height: auto;
+    max-height: 800px; /* 最大高度限制 */
+    object-fit: cover; /* 保持宽高比 */
   }
   .text-cell {
-    width: 25%; /* 分配25%宽度给文字 */
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* 垂直居中文本 */
   }
 </style>
 
@@ -55,7 +63,7 @@ permalink: /team
       <a href="mailto:huzeng@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </td>
     <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
+      <img src="{{site.baseurl}}/assets/img/team/tangmeng.jpg" alt="Description of image 2">
     </td>
     <td class="text-cell">
       <h4>Meng Tang (唐萌)</h4>
