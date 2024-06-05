@@ -4,24 +4,6 @@ title:
 permalink: /contact
 ---
 
-<h1 align="center">Contact</h1>
-
-**Primary contact:** Hu Zeng
-
-**Email:** huzeng@pku.edu.cn
-
-**Phone:** (010) 62767687
-
-**Address:** Room 230, Comprehensive Research Building 2, Peking University
-
-**Administrative contact:** Meng Tang
-
-**Email:** tmeng89@pku.edu.cn
-
-<iframe src="https://raw.githubusercontent.com/ZenghuPKU/zenghupku.github.io/master/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
-
-
-
 <h1 align="center">Join us!</h1>
 
 ## Postdoc
@@ -66,6 +48,25 @@ The laboratory recruits graduate students from three sources: the college of fut
 
 ## Undergraduate Students
 The laboratory welcomes undergraduate students from all years and various departments to study and complete their graduation theses.
+
+
+
+<h1 align="center">Contact</h1>
+
+**Primary contact:** Hu Zeng
+
+**Email:** huzeng@pku.edu.cn
+
+**Phone:** (010) 62767687
+
+**Address:** Room 230, Comprehensive Research Building 2, Peking University
+
+**Administrative contact:** Meng Tang
+
+**Email:** tmeng89@pku.edu.cn
+
+<iframe src="https://raw.githubusercontent.com/ZenghuPKU/zenghupku.github.io/master/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
+
 
 
 
