@@ -110,7 +110,7 @@ width: 49%;
       <div class="content">
         <h5>Recent News</h5>
  <p>SIMPLE-seq is out at Nature Biotechnology! SIMPLE-seq is a multi-omics sequencing technology that simultaneously measures 5mC and 5hmC at the single-cell and single-molecule levels.</p>
-      <a class="btn btn_underLine" href="/research.html">Research</a>
+      <a class="btn btn_underLine" href="/news.html">News</a>
       </div>
   </li>
 
@@ -119,7 +119,7 @@ width: 49%;
       <div class="content">
         <h5>Join us!</h5>
       <p>We are looking for talented scientists at all levels! If you are excited about developing single-cell epigenomics technologies, making discoveries about gene regulation in development and diseases, please do not hesitate to contact us. </p>
-      <a class="btn btn_underLine" href="/research.html">Research</a>
+      <a class="btn btn_underLine" href="/contact.html">Contact</a>
       </div>
   </li>
 </ul>
