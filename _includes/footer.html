@@ -1,4 +1,9 @@
-<footer class="footer">
+<footer class="footer" style="display: flex; align-items: center;">
   {% include social-icons.html %}
-  <div class="footer-description"><a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} by {{ site.author }}</a></div>
+  <div class="footer-description">
+    <a href="{{ site.github.url }}/">{{ site.title }} | {{ site.description }} ｜ created by {{ site.author }}</a>
+  </div>
+  <img src="{{site.baseurl}}/assets/img/logo/ctf.png" alt="Image Description" style="width: 100px; margin-left: 100px;">
 </footer>
+
+
