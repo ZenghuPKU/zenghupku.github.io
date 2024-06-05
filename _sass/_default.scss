@@ -50,15 +50,14 @@
 /*
   Menu
 */
-
 .menu {
   padding-top: 0.5rem;
-  display: flex;
-  justify-content: space-between;
+  display: block;
   background-color: rgb(242,244,250);
 }
 
 .menu-content {
+  float: center;
 }
 
 .menu-content a {
@@ -82,7 +81,7 @@
     padding-top: 0px;
   }
   .menu-content {
-    margin-bottom: 5px;
+    margin-bottom: 25px;
   }
 }
 
