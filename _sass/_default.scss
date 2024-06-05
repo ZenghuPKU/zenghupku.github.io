@@ -94,7 +94,9 @@
   color: $light-gray-color;
   text-align: center;
   margin: 2rem;
-  background-color: rgb(242,244,250);
+  background-image: url('{{site.baseurl}}/assets/img/logo/ctf.png'); 
+  background-repeat: no-repeat;
+  background-position: left center; 
 }
 
 .footer a {
