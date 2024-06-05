@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact
 ---
 
+<h2 align="center">Group Leader</h2>
+
 **Primary contact:** Hu Zeng
 
 **Email:** huzeng@pku.edu.cn
