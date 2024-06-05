@@ -11,7 +11,6 @@ menu:
 - {name: 'Team', url: 'team.html'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Publications', url: 'publications.html'}
-- {name: 'Join', url: 'join.html'}
 - {name: 'News', url: 'blog.html'}
 - {name: 'Contact', url: 'contact.html'}
 
