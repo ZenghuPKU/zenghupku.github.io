@@ -53,12 +53,12 @@
 
 .menu {
   padding-top: 0.5rem;
-  display: block;
+  display: flex;
+  justify-content: space-between;
   background-color: rgb(242,244,250);
 }
 
 .menu-content {
-  float: center;
 }
 
 .menu-content a {
