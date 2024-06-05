@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Contact
+title:
 permalink: /contact
 ---
 
-<h2 align="center">Group Leader</h2>
+<h1 align="center">Contact</h1>
 
 **Primary contact:** Hu Zeng
 
@@ -22,7 +22,7 @@ permalink: /contact
 
 
 
-# Join us!
+<h1 align="center">Join us!</h1>
 
 ## Postdoc
 ### Requirements
