@@ -6,7 +6,7 @@ permalink: /contact
 
 <h1 align="center">Join us!</h1>
 
-## Postdoc
+## 1) Postdoc
 ### Requirements
 1. Ph.D. degree holders capable of engaging in full-time research work.
 2. Candidates should be no older than 35 years of age and have obtained their Ph.D. degree within the past three years.
@@ -26,7 +26,7 @@ permalink: /contact
 3. Summary of Research Experience (1-2 pages, describing unpublished achievements).
 4. Names, positions, and contact information of at least two referees.
 
-## Research Assistant
+## 2) Research Assistant
 ### Requirements
 1. Assist doctoral students and postdoctoral researchers in conducting research projects.
 2. Provide experimental or data analysis support for the development and application of novel spatial sequencing technologies.
@@ -43,12 +43,15 @@ permalink: /contact
 3. Scans of Educational/Degree Certificates.
 4. Supporting documents such as awards and certifications.
 
-## Graduate Students
+## 3) Graduate Students
 The laboratory recruits graduate students from three sources: the college of future technology, the CLS, and the PTN program. Training will be provided based on individual interests and characteristics.
 
-## Undergraduate Students
+## 4) Undergraduate Students
 The laboratory welcomes undergraduate students from all years and various departments to study and complete their graduation theses.
 
+
+
+---
 
 
 <h1 align="center">Contact</h1>
