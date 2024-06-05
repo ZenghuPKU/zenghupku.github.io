@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Publications
+title:
 permalink: /publications
 ---
+
+<h1 align="center">Publications</h1>
 
 ### 2023
 **H Zeng#**, J Huang#, J Ren#, C K Wang, Z Tang, H Zhou, Y Zhou, H Shi, A Aditham, X Sui, H Chen, J A Lo, X Wang*. [Spatially Resolved single-cell translatomics at molecular resolution.](https://www.science.org/doi/10.1126/science.add3067)  **Science** (2023) 380, eadd3067. (Highlighted in the  Nature Reviews Genetics and  Nature Methods ).[get the PDF]({{ site.url }}/assets/science.add3067.pdf)
