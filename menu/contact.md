@@ -4,7 +4,8 @@ title:
 permalink: /contact
 ---
 
-<h1 style="text-align: center;">Join us!</h1>
+# <p style="text-align: center;">Join us!</p>
+
 
 ## Postdoc
 ### Requirements
