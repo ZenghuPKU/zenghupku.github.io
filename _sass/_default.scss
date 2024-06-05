@@ -6,7 +6,6 @@
   margin-left: auto;
   margin-right: auto;
   width: 1200px;
-  background-color: rgb(242,244,250);
 }
 
 .content-container {
@@ -30,6 +29,8 @@
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
   font-family: $sans-serif-font-family;
+  background-color: rgb(242,244,250);
+  text-align: center;
 }
 
 .header a:hover {
@@ -53,10 +54,11 @@
 .menu {
   padding-top: 0.5rem;
   display: block;
+  background-color: rgb(242,244,250);
 }
 
 .menu-content {
-  float: left;
+  float: center;
 }
 
 .menu-content a {
@@ -92,6 +94,7 @@
   color: $light-gray-color;
   text-align: center;
   margin: 2rem;
+  background-color: rgb(242,244,250);
 }
 
 .footer a {
