@@ -101,7 +101,7 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/tangmeng.jpg" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Meng Tang (唐萌)</h4>
@@ -142,13 +142,40 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/luocheng.jpg" alt="">
       </div>
       <div class="content">
         <h4>Cheng Luo(罗成)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">这里是罗成的描述文字。</p>
-      <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      <p style="font-size:90%">Msc, Genetics, Huazhong Agricultural University </p>
+       <p style="font-size:90%">Bsc, Biotechnology, Huazhong Agricultural University </p>
+      <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+   <li>
+      <div class="imgWrap">
+         <img src="{{site.baseurl}}/assets/img/team/xiaomei.jpg" alt="Description of image 2">
+      </div>
+      <div class="content">
+        <h4>Xiaomei Zhao (赵霄美)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">Bsc,School of Life Science, Peking University</p>
+       <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+ <ul class="imgContainer">
+
+    <li>
+      <div class="imgWrap">
+        <img src="{{site.baseurl}}/assets/img/team/zhoujian.jpg" alt="">
+      </div>
+      <div class="content">
+        <h4>Jian Zhou(周坚)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">Bsc, applied Chemistry, Nankai University</p>
+         <a href="mailto:zhou-j23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
 
@@ -157,9 +184,10 @@ permalink: /team
          <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
       </div>
       <div class="content">
-        <h4>Xiaomei Zhao (赵霄美)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel.</p>
+        <h4>Tianxiao Hui (惠天啸)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">Bsc, Pharmacy, China Pharmaceutical University</p>
+       <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
 
