@@ -89,14 +89,13 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="http://127.0.0.1:4000/assets/img/team/cc.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="">
       </div>
       <div class="content">
         <h4>Jie Ren(任杰)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
       <p style="font-size:90%">这里是第一张图片的描述文字。</p>
-      <a href="https://github.com/ZenghuPKU" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-      <a href="mailto:huzeng@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
 
@@ -107,7 +106,7 @@ permalink: /team
       <div class="content">
         <h4>Meng Tang (唐萌)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel.</p>
       </div>
   </li>
 
@@ -127,17 +126,42 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/ye.jpg" alt="Description of image 2">
+        <img src="{{site.baseurl}}/assets/img/team/ye.jpg" alt=" ">
       </div>
       <div class="content">
        <h4>Lingyuan YE(叶凌源)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">P</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student </p>
+      <p style="font-size:90%">Bsc, bioinformatics, Zhejiang University </p>
+      <a href="https://github.com/ibimanji" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="mailto:yely23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
  </ul>
 
+ <ul class="imgContainer">
 
+    <li>
+      <div class="imgWrap">
+        <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="">
+      </div>
+      <div class="content">
+        <h4>Cheng Luo(罗成)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">这里是罗成的描述文字。</p>
+      <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+   <li>
+      <div class="imgWrap">
+         <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
+      </div>
+      <div class="content">
+        <h4>Xiaomei Zhao (赵霄美)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel.</p>
+      </div>
+  </li>
 
 <!-- 
 <table>
