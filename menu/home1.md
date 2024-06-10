@@ -109,7 +109,7 @@ width: 49%;
      
       <div class="content">
         <h5>Lab Gallery</h5>
- <p>Our lab gallery section captures the spirit of our team's scientific journey and the lively community that supports our research. It's a collection of moments that show how we work together and enjoy our time outside the lab.</p>
+ <p>Our lab gallery captures the spirit of our team's scientific journey and lively community. It's a collection of moments that show our teamwork and fun times together.</p>
       <a class="btn btn_underLine" href="/blog.html">Gallery</a>
       </div>
   </li>
