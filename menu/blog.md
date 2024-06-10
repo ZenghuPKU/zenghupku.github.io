@@ -5,8 +5,7 @@ permalink: /blog
 ---
 
 <h1 align="center">Lab gallery</h1>
-```html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
