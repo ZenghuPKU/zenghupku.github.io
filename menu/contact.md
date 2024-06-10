@@ -53,7 +53,7 @@ The laboratory welcomes undergraduate students from all years and various depart
 
 **Email:** tmeng89@pku.edu.cn
 
-<iframe src="https://raw.githubusercontent.com/ZenghuPKU/zenghupku.github.io/master/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
+<iframe src="{{site.baseurl}}/baidumap.html" width="90%" height="400" frameborder="0"></iframe>
 
 
 
