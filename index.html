@@ -94,7 +94,7 @@ width: 49%;
 
     <li style="width: 100%">
       <div class="imgWrap">
-          <img src="https://zenghulab.github.io/picx-images-hosting/image/research.231pjlwm8o.webp" alt="research" />
+          <img src="{{site.baseurl}}/assets/img/logo/logotransparent.png" alt="research" />
 
       </div>
       <div class="content">
