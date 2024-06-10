@@ -4,6 +4,7 @@ title:
 permalink: /blog
 ---
 
+<h1 align="center">Lab gallery</h1>
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -13,10 +14,11 @@ permalink: /blog
 <title>图片浮动显示</title>
 <style>
     .image-container {
-        width: 300px;
-        height: 200px;
+        width: 1200px;
+        height: 800px;
         position: relative;
         overflow: hidden;
+        margin: 0 auto;
     }
     .image-container img {
         width: 100%;
@@ -28,9 +30,8 @@ permalink: /blog
 </head>
 <body>
 <div class="image-container">
-    <img src="{{site.baseurl}}/assets/img/logo/logotransparent.png" alt="Image 1">
-    <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="Image 2">
-    <img src="{{site.baseurl}}/assets/img/logo/logotransparent.png" alt="Image 3">
+    <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 1">
+    <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Image 2">
 </div>
 
 <script>
