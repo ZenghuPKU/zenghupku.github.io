@@ -234,7 +234,7 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/muchen.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/test2jpg" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>ceshi (test)</h4>
