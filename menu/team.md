@@ -107,7 +107,7 @@ permalink: /team
       <div class="content">
         <h4>Meng Tang (唐萌)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel.</p>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab. </p>
       </div>
   </li>
 
@@ -162,7 +162,7 @@ permalink: /team
         <h4>Xiaomei Zhao (赵霄美)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
       <p style="font-size:90%">Bsc,School of Life Science, Peking University</p>
-       <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+       <a href="mailto:2201112427@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
 
