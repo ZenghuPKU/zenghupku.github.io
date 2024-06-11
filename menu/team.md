@@ -94,7 +94,8 @@ permalink: /team
       <div class="content">
         <h4>Jie Ren(任杰)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-      <p style="font-size:90%">这里是第一张图片的描述文字。</p>
+      <p style="font-size:90%">PhD, Biology, Peking University</p>
+       <p style="font-size:90%">Bsc, Biology, China Algricultural University</p>
       <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
@@ -181,7 +182,7 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/tianxiao.jpg" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Tianxiao Hui (惠天啸)</h4>
@@ -190,7 +191,58 @@ permalink: /team
        <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
+ <ul class="imgContainer">
 
+    <li>
+      <div class="imgWrap">
+        <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt="">
+      </div>
+      <div class="content">
+        <h4>Haojun Yao(姚昊君)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (Incoming PhD student)</p>
+      <p style="font-size:90%">Bsc Chemistry, Hunan University</p>
+      <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a></p>
+         <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+   <li>
+      <div class="imgWrap">
+         <img src="{{site.baseurl}}/assets/img/team/muchen.jpg" alt="Description of image 2">
+      </div>
+      <div class="content">
+        <h4>Muchen Yao (姚慕晨)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricutural University</p>
+       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+ <ul class="imgContainer">
+
+    <li>
+      <div class="imgWrap">
+        <img src="{{site.baseurl}}/assets/img/team/yige.jpg" alt="">
+      </div>
+      <div class="content">
+        <h4>Yige Xie(谢弋戈)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">Undergraduate, nursing,  Peking University</p>
+               <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
+
+   <li>
+      <div class="imgWrap">
+         <img src="{{site.baseurl}}/assets/img/team/muchen.jpg" alt="Description of image 2">
+      </div>
+      <div class="content">
+        <h4>ceshi (test)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">111</p>
+      <p style="font-size:90%">111</p>
+       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      </div>
+  </li>
 <!-- 
 <table>
   <tr>
