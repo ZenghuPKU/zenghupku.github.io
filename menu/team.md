@@ -195,13 +195,13 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/haojun.jpg" alt="">
       </div>
       <div class="content">
         <h4>Haojun Yao(姚昊君)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (Incoming PhD student)</p>
       <p style="font-size:90%">Bsc Chemistry, Hunan University</p>
-      <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a></p>
+      <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a>
          <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
