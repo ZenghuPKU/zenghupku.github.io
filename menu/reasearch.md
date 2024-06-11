@@ -10,7 +10,7 @@ The flow of genetic information in cells is from DNA through RNA to protein, whi
 
 
 <p align="center">
-  <img src="https://zenghulab.github.io/picx-images-hosting/image/research.231pjlwm8o.webp" alt="research" width="500"/>
+  <img src="{{site.baseurl}}/assets/img/Research_new.png" alt="research" width="500"/>
 </p>
 
 ## 1) Developing spatial multiomics technologies
