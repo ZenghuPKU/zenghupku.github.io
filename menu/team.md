@@ -20,8 +20,9 @@ permalink: /team
     width: 25%; /* 分配25%宽度给图片 */
   }
   .img-cell img {
-    width: 100%; /* 图片宽度自适应单元格 */
-    height: auto;
+    width: auto; /* 图片宽度自适应单元格 */
+    height: 400px;
+    object-fit: cover;
   }
   .text-cell {
     width: 25%; /* 分配25%宽度给文字 */
@@ -49,14 +50,14 @@ permalink: /team
   }
   .imgContainer .imgWrap {
     width: 100%;
-    height: 300px; /* 固定图片高度 */
+    height: 400px; /* 固定图片高度 */
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
   }
   .imgContainer .imgWrap img {
-    width: 100%;
+    width: auto;
     height: 100%;
     object-fit: cover; /* 确保图片按比例填充 */
   }
