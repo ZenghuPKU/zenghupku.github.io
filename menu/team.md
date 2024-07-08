@@ -114,6 +114,7 @@ table {
       <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab. </p>
       </div>
   </li>
+ <ul class="imgContainer">
 
    <li>
       <div class="imgWrap">
@@ -143,6 +144,7 @@ table {
   </li>
  </ul>
 
+ <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -169,6 +171,7 @@ table {
       </div>
   </li>
 
+ <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -194,6 +197,7 @@ table {
       </div>
   </li>
 
+ <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -220,6 +224,7 @@ table {
       </div>
   </li>
 
+ <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -245,49 +250,3 @@ table {
       </div>
   </li>
 
-<!-- 
-<table>
-  <tr>
-    <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/test1.jpg" alt=" ">
-    </td>
-    <td class="text-cell">
-      <h4>Jie Ren(任杰)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-      <p style="font-size:90%">这里是第一张图片的描述文字。</p>
-      <a href="https://github.com/ZenghuPKU" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-      <a href="mailto:huzeng@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </td>
-    <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/test2.jpg" alt="Description of image 2">
-    </td>
-    <td class="text-cell">
-      <h4>Meng Tang (唐萌)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/cc.jpg" alt=" ">
-    </td>
-    <td class="text-cell">
-      <h4>Chen Cheng(程臣)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (incoming PhD student)</p>
-      <p style="font-size:90%">MPhil Biomedical Science ,HKU</p>
-      <p style="font-size:90%">Bsc biology, Double Major English literature, Zhejiang University</p>
-      <a href="https://github.com/chengarthur" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
-      <a href="mailto:zhizff74@connect.hku.hk" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </td>
-    <td class="img-cell">
-      <img src="{{site.baseurl}}/assets/img/team/ye.jpg" alt="Description of image 2">
-    </td>
-    <td class="text-cell">
-      <h4>Lingyuan YE(叶凌源)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">P</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for six years, and currently serves as the Administrative Secretary for Research at the Zenglab. Passionate about food and travel,</p>
-    </td>
-  </tr>
-</table>  -->
