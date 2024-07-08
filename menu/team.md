@@ -18,48 +18,50 @@ permalink: /team
     width: 25%; /* 分配25%宽度给文字 */
   }
 
-
-  .imgContainer{
-         display: flex;
+  .imgContainer {
+    display: flex;
     width: 100%;
     padding: 20px;
     flex-wrap: wrap;
     justify-content: space-between;
-    }
-    .imgContainer li:hover{
+  }
+  .imgContainer li:hover {
     box-shadow: 0px 0px 5px 0px #999;
     transition: .5s;
-    }
-    .imgContainer li{
-      list-style: none;
+  }
+  .imgContainer li {
+    list-style: none;
     margin: 20px 0;
     box-shadow: 0px 0px 2px 0px #999;
-
     display: flex;
     width: 48%;
-    }
-    .imgContainer .imgWrap{
-          width: 250px;
+    height: 300px; /* 固定高度 */
+    flex-direction: column; /* 垂直布局 */
+  }
+  .imgContainer .imgWrap {
+    width: 100%;
+    height: 60%; /* 分配60%的高度给图片 */
     display: flex;
     padding: 20px;
-    }
-    .imgContainer li .content{
-      flex: 1;
-      padding: 0px 20px;
-    }
-    .imgContainer li .content p {
-      line-height: 30px;
-    }
-    .imgContainer li img{
-      width: 100%;
-        height: fit-content;
-    }
-    .imgContainer h4{
-      margin: 0;
-      line-height: 50px;
-    }
+  }
+  .imgContainer li .content {
+    flex: 1;
+    padding: 0px 20px;
+    height: 40%; /* 分配40%的高度给文字内容 */
+  }
+  .imgContainer li .content p {
+    line-height: 30px;
+  }
+  .imgContainer li img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* 强制图片适应框 */
+  }
+  .imgContainer h4 {
+    margin: 0;
+    line-height: 50px;
+  }
 </style>
-
 
 
 
