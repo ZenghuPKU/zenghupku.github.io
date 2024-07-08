@@ -28,8 +28,8 @@ permalink: /team
     }
     .imgContainer li {
         list-style: none;
-        width: 48%; /* 修改为48%以便两列排列 */
-        margin: 20px 1%;
+        width: 38%; /* 修改为48%以便两列排列 */
+        margin: 20px 5%;
         box-shadow: 0px 0px 2px 0px #999;
         padding: 20px;
         display: flex;
