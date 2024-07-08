@@ -3,14 +3,9 @@ layout: page
 title: 
 permalink: /team
 ---
-To make the changes you requested, I will modify the CSS to ensure that all boxes and images have a fixed size. This will ensure uniformity in the appearance of the images and the text containers. Here's the updated code:
 
-```html
----
-layout: page
-title: 
-permalink: /team
----
+
+
 <style>
   table {
     width: 100%;
@@ -26,50 +21,45 @@ permalink: /team
     width: 25%; /* 分配25%宽度给文字 */
   }
 
-  .imgContainer {
+  .team-container {
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .imgContainer li {
-    list-style: none;
+  .team-member {
     width: 48%;
-    margin: 20px 1%;
-    box-shadow: 0px 0px 2px 0px #999;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-  .imgContainer li:hover {
+    margin: 1%;
     box-shadow: 0px 0px 5px 0px #999;
-    transition: .5s;
-  }
-  .imgContainer .imgWrap {
-    width: 100%;
-    height: 300px; /* 固定图片高度 */
     display: flex;
-    justify-content: center;
-    align-items: center;
+  }
+  .img-wrap {
+    width: 250px;
+    height: 250px;
     overflow: hidden;
   }
-  .imgContainer .imgWrap img {
+  .img-wrap img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* 确保图片按比例填充 */
+    object-fit: cover;
   }
-  .imgContainer li .content {
-    width: 100%;
+  .content {
     padding: 20px;
+    flex: 1;
   }
-  .imgContainer li .content h4 {
+  .content h4 {
     margin: 0;
     line-height: 1.5em;
   }
-  .imgContainer li .content p {
+  .content p {
     line-height: 1.5em;
     font-size: 90%;
+  }
+  .content .text-muted {
+    line-height: 1em;
+  }
+  .content a {
+    margin-right: 10px;
   }
 </style>
 
@@ -182,4 +172,72 @@ permalink: /team
       <h4>Jian Zhou(周坚)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
       <p style="font-size:90%">Bsc, applied Chemistry, Nankai University</p>
-      <a href="mailto:zhou-j23@mails.tsinghua.edu.cn" target
+      <a href="mailto:zhou-j23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/tianxiaonew.jpeg" alt="Description of image 2">
+    </div>
+    <div class="content">
+      <h4>Tianxiao Hui (惠天啸)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">Bsc, Pharmacy, China Pharmaceutical University</p>
+      <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+</ul>
+
+<ul class="imgContainer">
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/haojun.jpg" alt="">
+    </div>
+    <div class="content">
+      <h4>Haojun Yao(姚昊君)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (Incoming PhD student)</p>
+      <p style="font-size:90%">Bsc Chemistry, Hunan University</p>
+      <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a>
+      <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/muchen.jpg" alt="Description of image 2">
+    </div>
+    <div class="content">
+      <h4>Muchen Yao (姚慕晨)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricultural University</p>
+      <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+</ul>
+
+<ul class="imgContainer">
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/yigenew.jpeg" alt="">
+    </div>
+    <div class="content">
+      <h4>Yige Xie(谢弋戈)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">Undergraduate, nursing, Peking University</p>
+      <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/test2jpg" alt="Description of image 2">
+    </div>
+    <div class="content">
+      <h4>ceshi (test)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">111</p>
+      <p style="font-size:90%">111</p>
+      <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+</ul>
