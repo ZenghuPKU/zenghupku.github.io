@@ -225,7 +225,7 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/yigenew.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/yigenew.jpeg" alt="">
       </div>
       <div class="content">
         <h4>Yige Xie(谢弋戈)</h4>
@@ -234,7 +234,7 @@ permalink: /team
                <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
-
+<!-- 
    <li>
       <div class="imgWrap">
          <img src="{{site.baseurl}}/assets/img/team/test2jpg" alt="Description of image 2">
@@ -246,7 +246,7 @@ permalink: /team
        <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
-<!-- 
+
 <table>
   <tr>
     <td class="img-cell">
