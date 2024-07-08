@@ -67,7 +67,7 @@ permalink: /team
 <table >
 <tr> 
 <td >
-<img src=" {{site.baseurl}}/assets/img/team/zenghu.jpg"  width="800px"/> 
+<img src=" {{site.baseurl}}/assets/img/team/hunew.jpeg"  width="800px"/> 
 </td> 
 <td>
 <h4>Hu Zeng (曾虎)</h4>
