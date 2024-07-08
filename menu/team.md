@@ -4,8 +4,14 @@ title:
 permalink: /team
 ---
 
+To make the changes you requested, I will modify the CSS to ensure that all boxes and images have a fixed size. This will ensure uniformity in the appearance of the images and the text containers. Here's the updated code:
 
-
+```html
+---
+layout: page
+title: 
+permalink: /team
+---
 <style>
   table {
     width: 100%;
@@ -21,45 +27,50 @@ permalink: /team
     width: 25%; /* 分配25%宽度给文字 */
   }
 
-  .team-container {
-    width: 100%;
+  .imgContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
-  .team-member {
+  .imgContainer li {
+    list-style: none;
     width: 48%;
-    margin: 1%;
-    box-shadow: 0px 0px 5px 0px #999;
+    margin: 20px 1%;
+    box-shadow: 0px 0px 2px 0px #999;
+    padding: 20px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
   }
-  .img-wrap {
-    width: 250px;
-    height: 250px;
+  .imgContainer li:hover {
+    box-shadow: 0px 0px 5px 0px #999;
+    transition: .5s;
+  }
+  .imgContainer .imgWrap {
+    width: 100%;
+    height: 300px; /* 固定图片高度 */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     overflow: hidden;
   }
-  .img-wrap img {
+  .imgContainer .imgWrap img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: cover; /* 确保图片按比例填充 */
   }
-  .content {
+  .imgContainer li .content {
+    width: 100%;
     padding: 20px;
-    flex: 1;
   }
-  .content h4 {
+  .imgContainer li .content h4 {
     margin: 0;
     line-height: 1.5em;
   }
-  .content p {
+  .imgContainer li .content p {
     line-height: 1.5em;
     font-size: 90%;
-  }
-  .content .text-muted {
-    line-height: 1em;
-  }
-  .content a {
-    margin-right: 10px;
   }
 </style>
 
