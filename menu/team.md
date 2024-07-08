@@ -1,3 +1,10 @@
+---
+layout: page
+title: 
+permalink: /team
+---
+
+
 <style>
 table {
     width: 100%;
