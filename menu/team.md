@@ -105,7 +105,7 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/tangmeng.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/tangmengnew.jpg" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Meng Tang (唐萌)</h4>
@@ -146,7 +146,7 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/luocheng.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/luochengnew.jpg" alt="">
       </div>
       <div class="content">
         <h4>Cheng Luo(罗成)</h4>
@@ -225,7 +225,7 @@ permalink: /team
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/yige.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/yigenew.jpg" alt="">
       </div>
       <div class="content">
         <h4>Yige Xie(谢弋戈)</h4>
