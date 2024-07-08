@@ -117,7 +117,7 @@ table {
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/cc.jpg" alt=" ">
+         <img src="{{site.baseurl}}/assets/img/team/cc.png" alt=" ">
       </div>
       <div class="content">
          <h4>Chen Cheng(程臣)</h4>
@@ -195,6 +195,7 @@ table {
        <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
+
  <ul class="imgContainer">
 
     <li>
@@ -247,6 +248,8 @@ table {
        <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
+ <ul class="imgContainer">
+
 <!-- 
 <table>
   <tr>
