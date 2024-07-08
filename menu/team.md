@@ -85,168 +85,142 @@ table {
 </tr>
 </table>
 
-<h2 align="center">Current Team Member</h2>
+<h2 align="center">Current Team Members</h2>
 
-
-
- <ul class="imgContainer">
-
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/rj.png" alt="">
-      </div>
-      <div class="content">
-        <h4>Jie Ren(任杰)</h4>
+<ul class="imgContainer">
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/rj.png" alt="Jie Ren">
+    </div>
+    <div class="content">
+      <h4>Jie Ren (任杰)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
       <p style="font-size:90%">PhD, Biology, Peking University</p>
-       <p style="font-size:90%">Bsc, Biology, China Algricultural University</p>
+      <p style="font-size:90%">BSc, Biology, China Agricultural University</p>
       <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+    </div>
   </li>
 
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>Meng Tang (唐萌)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Meng Tang">
+    </div>
+    <div class="content">
+      <h4>Meng Tang (唐萌)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab. </p>
-      </div>
+      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab.</p>
+    </div>
   </li>
- <ul class="imgContainer">
 
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/cc.png" alt=" ">
-      </div>
-      <div class="content">
-         <h4>Chen Cheng(程臣)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/cc.png" alt="Chen Cheng">
+    </div>
+    <div class="content">
+      <h4>Chen Cheng (程臣)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (incoming PhD student)</p>
-      <p style="font-size:90%">MPhil Biomedical Science ,HKU</p>
-      <p style="font-size:90%">Bsc biology, Double Major English literature, Zhejiang University</p>
+      <p style="font-size:90%">MPhil Biomedical Science, HKU</p>
+      <p style="font-size:90%">BSc Biology, Double Major English Literature, Zhejiang University</p>
       <a href="https://github.com/chengarthur" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
       <a href="mailto:zhizff74@connect.hku.hk" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+    </div>
   </li>
 
-   <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/yly.png" alt=" ">
-      </div>
-      <div class="content">
-       <h4>Lingyuan YE(叶凌源)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student </p>
-      <p style="font-size:90%">Bsc, bioinformatics, Zhejiang University </p>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/yly.png" alt="Lingyuan Ye">
+    </div>
+    <div class="content">
+      <h4>Lingyuan Ye (叶凌源)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, Bioinformatics, Zhejiang University</p>
       <a href="https://github.com/ibimanji" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
       <a href="mailto:yely23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+    </div>
   </li>
- </ul>
 
- <ul class="imgContainer">
-
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/lc.png" alt="">
-      </div>
-      <div class="content">
-        <h4>Cheng Luo(罗成)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/lc.png" alt="Cheng Luo">
+    </div>
+    <div class="content">
+      <h4>Cheng Luo (罗成)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Msc, Genetics, Huazhong Agricultural University </p>
-       <p style="font-size:90%">Bsc, Biotechnology, Huazhong Agricultural University </p>
+      <p style="font-size:90%">MSc, Genetics, Huazhong Agricultural University</p>
+      <p style="font-size:90%">BSc, Biotechnology, Huazhong Agricultural University</p>
       <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+    </div>
   </li>
 
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/zxm.png" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>Xiaomei Zhao (赵霄美)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/zxm.png" alt="Xiaomei Zhao">
+    </div>
+    <div class="content">
+      <h4>Xiaomei Zhao (赵霄美)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Bsc,School of Life Science, Peking University</p>
-       <a href="mailto:2201112427@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <p style="font-size:90%">BSc, School of Life Science, Peking University</p>
+      <a href="mailto:2201112427@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
 
- <ul class="imgContainer">
-
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/zj.png" alt="">
-      </div>
-      <div class="content">
-        <h4>Jian Zhou(周坚)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/zj.png" alt="Jian Zhou">
+    </div>
+    <div class="content">
+      <h4>Jian Zhou (周坚)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Bsc, applied Chemistry, Nankai University</p>
-         <a href="mailto:zhou-j23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <p style="font-size:90%">BSc, Applied Chemistry, Nankai University</p>
+      <a href="mailto:zhou-j23@mails.tsinghua.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
 
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/htx.png" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>Tianxiao Hui (惠天啸)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/htx.png" alt="Tianxiao Hui">
+    </div>
+    <div class="content">
+      <h4>Tianxiao Hui (惠天啸)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Bsc, Pharmacy, China Pharmaceutical University</p>
-       <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <p style="font-size:90%">BSc, Pharmacy, China Pharmaceutical University</p>
+      <a href="mailto:tianxiaohui_cls@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
 
- <ul class="imgContainer">
-
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/yhj.png" alt="">
-      </div>
-      <div class="content">
-        <h4>Haojun Yao(姚昊君)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/yhj.png" alt="Haojun Yao">
+    </div>
+    <div class="content">
+      <h4>Haojun Yao (姚昊君)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (Incoming PhD student)</p>
-      <p style="font-size:90%">Bsc Chemistry, Hunan University</p>
+      <p style="font-size:90%">BSc Chemistry, Hunan University</p>
       <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a>
-         <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
 
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/ymc.png" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>Muchen Yao (姚慕晨)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/ymc.png" alt="Muchen Yao">
+    </div>
+    <div class="content">
+      <h4>Muchen Yao (姚慕晨)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
-      <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricutural University</p>
-       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricultural University</p>
+      <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
 
- <ul class="imgContainer">
-
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="">
-      </div>
-      <div class="content">
-        <h4>Yige Xie(谢弋戈)</h4>
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="Yige Xie">
+    </div>
+    <div class="content">
+      <h4>Yige Xie (谢弋戈)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
-      <p style="font-size:90%">Undergraduate, nursing,  Peking University</p>
-               <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
+      <p style="font-size:90%">Undergraduate, Nursing, Peking University</p>
+      <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
   </li>
-
-   <li>
-      <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/test2jpg" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>ceshi (test)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">111</p>
-      <p style="font-size:90%">111</p>
-       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
-  </li>
-
