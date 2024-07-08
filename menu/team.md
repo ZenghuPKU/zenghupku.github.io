@@ -131,7 +131,7 @@ table {
 
    <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/ye.png" alt=" ">
+        <img src="{{site.baseurl}}/assets/img/team/yly.png" alt=" ">
       </div>
       <div class="content">
        <h4>Lingyuan YE(叶凌源)</h4>
