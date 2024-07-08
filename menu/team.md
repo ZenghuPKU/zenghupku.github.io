@@ -185,7 +185,7 @@ permalink: /team
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/tianxiao.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/tianxiaonew.jpeg" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Tianxiao Hui (惠天啸)</h4>
