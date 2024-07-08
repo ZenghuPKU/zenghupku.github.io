@@ -87,67 +87,6 @@ permalink: /team
 </table>
 
 <h2 align="center">Current Team Member</h2>
-<div class="team-container">
-  <ul class="team-list">
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="">
-      </div>
-      <div class="content">
-        <h4>Jie Ren(任杰)</h4>
-        <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-        <p style="font-size:90%">PhD, Biology, Peking University</p>
-        <p style="font-size:90%">Bsc, Biology, China Agricultural University</p>
-        <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-      </div>
-    </li>
-    <!-- 将原列表的前半部分成员移动到这里 -->
-  </ul>
-  <ul class="team-list">
-    <li>
-      <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/tangmengnew.jpg" alt="Description of image 2">
-      </div>
-      <div class="content">
-        <h4>Meng Tang (唐萌)</h4>
-        <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-        <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab.</p>
-      </div>
-    </li>
-    <!-- 将原列表的后半部分成员移动到这里 -->
-  </ul>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-<style>
-  .team-container {
-    display: flex;
-    justify-content: space-between;
-  }
-  .team-list {
-    width: 49%; /* 左右两栏各占49%，中间留1%的间隔 */
-  }
-</style>
-<h2 align="center">Current Team Member</h2>
 
 <ul class="imgContainer">
   <li>
@@ -307,4 +246,3 @@ permalink: /team
     </div>
   </li>
 </ul>
--->
