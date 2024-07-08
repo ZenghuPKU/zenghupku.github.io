@@ -93,7 +93,7 @@ table {
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/renjie.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/rj.png" alt="">
       </div>
       <div class="content">
         <h4>Jie Ren(任杰)</h4>
@@ -106,7 +106,7 @@ table {
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/tangmengnew.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Meng Tang (唐萌)</h4>
@@ -131,7 +131,7 @@ table {
 
    <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/ye.jpg" alt=" ">
+        <img src="{{site.baseurl}}/assets/img/team/ye.png" alt=" ">
       </div>
       <div class="content">
        <h4>Lingyuan YE(叶凌源)</h4>
@@ -147,7 +147,7 @@ table {
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/luochengnew.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/lc.png" alt="">
       </div>
       <div class="content">
         <h4>Cheng Luo(罗成)</h4>
@@ -160,7 +160,7 @@ table {
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/xiaomei.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/zxm.png" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Xiaomei Zhao (赵霄美)</h4>
@@ -174,7 +174,7 @@ table {
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/zhoujian.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/zj.png" alt="">
       </div>
       <div class="content">
         <h4>Jian Zhou(周坚)</h4>
@@ -186,7 +186,7 @@ table {
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/tianxiaonew.jpeg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/htx.png" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Tianxiao Hui (惠天啸)</h4>
@@ -199,7 +199,7 @@ table {
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/haojun.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/yhj.png" alt="">
       </div>
       <div class="content">
         <h4>Haojun Yao(姚昊君)</h4>
@@ -212,7 +212,7 @@ table {
 
    <li>
       <div class="imgWrap">
-         <img src="{{site.baseurl}}/assets/img/team/muchen.jpg" alt="Description of image 2">
+         <img src="{{site.baseurl}}/assets/img/team/ymc.png" alt="Description of image 2">
       </div>
       <div class="content">
         <h4>Muchen Yao (姚慕晨)</h4>
@@ -226,7 +226,7 @@ table {
 
     <li>
       <div class="imgWrap">
-        <img src="{{site.baseurl}}/assets/img/team/yigenew.jpeg" alt="">
+        <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="">
       </div>
       <div class="content">
         <h4>Yige Xie(谢弋戈)</h4>
