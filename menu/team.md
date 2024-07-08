@@ -143,7 +143,6 @@ table {
   </li>
  </ul>
 
- <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -170,7 +169,6 @@ table {
       </div>
   </li>
 
- <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -196,7 +194,6 @@ table {
       </div>
   </li>
 
- <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -223,7 +220,6 @@ table {
       </div>
   </li>
 
- <ul class="imgContainer">
 
     <li>
       <div class="imgWrap">
@@ -248,7 +244,6 @@ table {
        <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
       </div>
   </li>
- <ul class="imgContainer">
 
 <!-- 
 <table>
