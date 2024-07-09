@@ -77,7 +77,7 @@ table {
                 <br>Tel: +86 (010) 62767687 <br>
                  
 <a href="https://future.pku.edu.cn/jsdw/jy/fzyxs1/11e271c0c09e4b919554a49d90093b98.htm" target="_blank">CFT PI page</a> |
-<a href="https://www.cls.edu.cn/PrincipalInvestigator/pi/index6199.shtml" target="_blank">CLS PI page</a></p>
+<a href="http://www.cls.edu.cn/info/1263/4495.htm" target="_blank">CLS PI page</a></p>
                   <p> Hu Zeng is currently an assistant professor at the College of Future Technology and the Center for Life Sciences at Peking University. He obtained his Ph.D. in Biochemistry and Molecular Biology from Peking University under the supervision of Professor Chengqi Yi, and subsequently conducted postdoctoral research at the Broad Institute of MIT and Harvard with Professor Xiao Wang. </p>
                   
                   
