@@ -108,7 +108,8 @@ table {
     <div class="content">
       <h4>Meng Tang (唐萌)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">Graduated from Heriot-Watt University in the UK, lived in Europe and the United States for many years, and currently serves as the Administrative Secretary for Research at the Zenglab.</p>
+      <p style="font-size:90%">MBA Business, Heriot-Watt University</p>
+      <a href="mailto:tmeng89@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
 
