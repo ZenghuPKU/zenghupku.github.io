@@ -64,7 +64,7 @@ table {
 
 
 
-<h2 align="center">Group Leader</h2>
+<h2 align="center">Principal Investigator</h2>
 <table >
 <tr> 
 <td >
@@ -90,19 +90,6 @@ table {
 <ul class="imgContainer">
   <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/rj.png" alt="Jie Ren">
-    </div>
-    <div class="content">
-      <h4>Jie Ren (任杰)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
-      <p style="font-size:90%">PhD, Biology, Peking University</p>
-      <p style="font-size:90%">BSc, Biology, China Agricultural University</p>
-      <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </div>
-  </li>
-
-  <li>
-    <div class="imgWrap">
       <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Meng Tang">
     </div>
     <div class="content">
@@ -110,6 +97,19 @@ table {
       <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
       <p style="font-size:90%">MBA Business, Heriot-Watt University</p>
       <a href="mailto:tmeng89@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+    <img src="{{site.baseurl}}/assets/img/team/rj.png" alt="Jie Ren">
+    </div>
+    <div class="content">
+      <h4>Jie Ren (任杰)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
+      <p style="font-size:90%">PhD, Biology, Peking University</p>
+      <p style="font-size:90%">BSc, Biology, China Agricultural University</p>
+      <a href="mailto:renjie@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
 
