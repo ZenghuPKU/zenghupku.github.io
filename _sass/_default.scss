@@ -25,16 +25,29 @@
 */
 
 .header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* 标题居中对齐 */
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
   font-family: $sans-serif-font-family;
   background-color: rgb(242,244,250);
-  text-align: center;
+  text-align: center; /* 这个可能是多余的，因为 flexbox 会管理布局 */
 }
 
-.header a:hover {
-  color:black;
+.header-logo {
+  margin-right: 1rem; /* 为 logo 和标题之间添加间距 */
+}
+
+.header-logo img {
+  max-height: 50px; /* 设置 logo 的最大高度 */
+  height: auto;
+  width: auto;
+}
+
+.header-title {
+  margin: 0;
 }
 
 .header-title a {
