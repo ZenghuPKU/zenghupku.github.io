@@ -47,6 +47,8 @@
 }
 
 .header-title {
+  flex-grow: 1; /* 使标题占据中间的剩余空间 */
+  text-align: center; /* 确保标题居中对齐 */
   margin: 0;
 }
 
