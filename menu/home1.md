@@ -99,7 +99,7 @@ permalink: /home1
 
     <li style="width: 100%">
       <div class="imgWrap">
-          <img src="{{site.baseurl}}/assets/img/logo/B4-3-FLlag_overlay.tif" alt="research" />
+          <img src="{{site.baseurl}}/assets/img/logo/B4-3-FLlag_overlay.png" alt="research" />
 
       </div>
       <div class="content">
