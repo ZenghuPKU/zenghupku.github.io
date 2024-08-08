@@ -37,6 +37,10 @@ permalink: index.html
     .imgContainer li:first-child .content p {
       color: white; /* 确保链接按钮、标题和段落文字都为白色 */
     }
+    .imgContainer li:not(:first-child) .content {
+      background-color: unset; /* 保持其他 li 的背景色为默认 */
+      color: unset; /* 保持其他 li 的文字颜色为默认 */
+    }
     .imgContainer .imgWrap{
     display: flex;
     justify-content: center;
