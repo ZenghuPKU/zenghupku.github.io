@@ -26,11 +26,16 @@ permalink: /home1
     justify-content: space-between;
     }
    
-    .imgContainer li{
-      list-style: none;
-    margin: 20px 0;
-width: 49%;
-    display: flex;
+    .imgContainer li:first-child .content {
+      background-color: black; /* 设置背景颜色为黑色 */
+      color: white; /* 设置文字颜色为白色 */
+      padding: 20px; /* 增加内边距以增强可读性 */
+    }
+    
+    .imgContainer li:first-child .content a.btn,
+    .imgContainer li:first-child .content h5,
+    .imgContainer li:first-child .content p {
+      color: white; /* 确保链接按钮、标题和段落文字都为白色 */
     }
     .imgContainer .imgWrap{
     display: flex;
@@ -94,7 +99,7 @@ width: 49%;
 
     <li style="width: 100%">
       <div class="imgWrap">
-          <img src="{{site.baseurl}}/assets/img/logo/logotransparent.png" alt="research" />
+          <img src="{{site.baseurl}}/assets/img/logo/B4-3-FLlag_overlay.tif" alt="research" />
 
       </div>
       <div class="content">
