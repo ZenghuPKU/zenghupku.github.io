@@ -27,39 +27,37 @@
 .header {
   display: flex;
   align-items: center;
-  justify-content: center; /* 标题居中对齐 */
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  justify-content: center; /* 保持标题居中 */
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   margin-bottom: 4rem;
   font-family: $sans-serif-font-family;
   background-color: rgb(242,244,250);
-  text-align: center; /* 这个可能是多余的，因为 flexbox 会管理布局 */
+  text-align: center;
+  position: relative; /* 使得子元素可以通过绝对定位调整 */
 }
 
 .header-logo {
-  margin-right: 1rem; /* 为 logo 和标题之间添加间距 */
+  position: absolute;
+  left: 20px; /* 通过 left 属性调整 logo 的位置，往右移动 */
 }
 
 .header-logo img {
-  max-height: 80px; /* 设置 logo 的最大高度 */
+  max-height: 80px; /* 调整 logo 的高度 */
   height: auto;
   width: auto;
 }
 
 .header-title {
-  flex-grow: 1; /* 使标题占据中间的剩余空间 */
-  text-align: center; /* 确保标题居中对齐 */
+  flex-grow: 1;
   margin: 0;
+  text-align: center; /* 确保标题仍然居中 */
 }
 
 .header-title a {
   font-size: 2rem;
   text-decoration: none;
   color: $body-color;
-}
-
-.header-subtitle {
-  color: $light-gray-color;
 }
 
 /*
