@@ -24,7 +24,7 @@ permalink: /home1
     width: 100%;
     flex-wrap: wrap;
     justify-content: space-between;
-    margin-right: 10px;
+    margin-right: 20px;
     }
    
     .imgContainer li{
