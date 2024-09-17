@@ -29,8 +29,10 @@ permalink: /blog
 </head>
 <body>
 <div class="image-container">
-    <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 1">
-    <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Image 2">
+    <img src="{{site.baseurl}}/assets/img/gallery/web2.tiff" alt="Image 1">
+    <img src="{{site.baseurl}}/assets/img/gallery/web1.tiff" alt="Image 2">
+    <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 3">
+    <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Image 4">
 </div>
 
 <script>
