@@ -35,12 +35,13 @@ permalink: /blog
         margin-top: 20px;
     }
     .thumbnail-container img {
-        width: 100px;
-        height: 100px;
+        width: 150px; /* 缩略图宽度 */
+        height: 60px; /* 缩略图高度 */
         margin: 0 10px;
         cursor: pointer;
         border: 2px solid transparent;
         transition: border 0.3s ease;
+        object-fit: cover; /* 确保图片以矩形显示，不拉伸变形 */
     }
     .thumbnail-container img:hover {
         border: 2px solid #007BFF;
