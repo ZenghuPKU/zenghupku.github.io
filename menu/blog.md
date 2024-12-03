@@ -36,12 +36,13 @@ permalink: /blog
     }
     .thumbnail-container img {
         width: 150px; /* 缩略图宽度 */
-        height: 60px; /* 缩略图高度 */
+        height: 100px; /* 缩略图高度，保持比例一致 */
         margin: 0 10px;
         cursor: pointer;
         border: 2px solid transparent;
         transition: border 0.3s ease;
-        object-fit: cover; /* 确保图片以矩形显示，不拉伸变形 */
+        object-fit: contain; /* 保证内容完整显示 */
+        background: #f0f0f0; /* 添加背景色以区分透明区域 */
     }
     .thumbnail-container img:hover {
         border: 2px solid #007BFF;
@@ -57,6 +58,7 @@ permalink: /blog
     <img src="{{site.baseurl}}/assets/img/gallery/grass.jpg" alt="Image 2">
     <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 3">
     <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Image 4">
+    <img src="{{site.baseurl}}/assets/img/gallery/island.JPG" alt="Image 5">
 </div>
 
 <div class="thumbnail-container">
@@ -64,6 +66,7 @@ permalink: /blog
     <img src="{{site.baseurl}}/assets/img/gallery/grass.jpg" alt="Thumbnail 2" data-index="1">
     <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Thumbnail 3" data-index="2">
     <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Thumbnail 4" data-index="3">
+    <img src="{{site.baseurl}}/assets/img/gallery/island.jpg" alt="Thumbnail 5" data-index="4">
 </div>
 
 <script>
