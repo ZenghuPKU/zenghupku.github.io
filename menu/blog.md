@@ -58,7 +58,7 @@ permalink: /blog
     <img src="{{site.baseurl}}/assets/img/gallery/grass.jpg" alt="Image 2">
     <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 3">
     <img src="{{site.baseurl}}/assets/img/gallery/bbq.JPG" alt="Image 4">
-    <img src="{{site.baseurl}}/assets/img/gallery/island.JPG" alt="Image 5">
+    <img src="{{site.baseurl}}/assets/img/gallery/island.jpg" alt="Image 5">
 </div>
 
 <div class="thumbnail-container">
