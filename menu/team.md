@@ -250,6 +250,7 @@ table {
       <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
+</ul>
 
 <h2 align="center">Alumni</h2>
 
