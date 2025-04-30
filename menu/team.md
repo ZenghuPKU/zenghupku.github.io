@@ -195,7 +195,7 @@ table {
     </div>
     <div class="content">
       <h4>Haojun Yao (姚昊君)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">RA (Incoming PhD student)</p>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
       <p style="font-size:90%">BSc Chemistry, Hunan University</p>
       <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a>
       <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
@@ -232,7 +232,7 @@ table {
     </div>
     <div class="content">
       <h4>Wenhao Sun (孙文浩)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
       <p style="font-size:90%">MSc, Biophysics, University of Chinese Academy of Sciences</p>
       <p style="font-size:90%">BSc, Biotechnology, Jiangnan University</p>
       <a href="mailto:sunwenhao_0716@163.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
