@@ -225,3 +225,18 @@ table {
       <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
+
+<h2 align="center">Alumni</h2>
+
+<ul class="imgContainer">
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Meng Tang">
+    </div>
+    <div class="content">
+      <h4>Meng Tang (唐萌)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
+      <p style="font-size:90%">MBA Business, Heriot-Watt University</p>
+      <a href="mailto:tmeng89@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
