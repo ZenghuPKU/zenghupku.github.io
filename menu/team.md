@@ -257,12 +257,12 @@ table {
 <ul class="imgContainer">
   <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/tm.png" alt="Meng Tang">
+      <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="Yige Xie">
     </div>
     <div class="content">
-      <h4>Meng Tang (唐萌)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Lab Manager</p>
-      <p style="font-size:90%">MBA Business, Heriot-Watt University</p>
-      <a href="mailto:tmeng89@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      <h4>Yige Xie (谢弋戈)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">Undergraduate, Nursing, Peking University</p>
+      <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
