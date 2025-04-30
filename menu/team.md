@@ -216,6 +216,31 @@ table {
 
   <li>
     <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/jzw.png" alt="Zhiwen Jing">
+    </div>
+    <div class="content">
+      <h4>Zhiwen Jing (景智文)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, School of Life Science, Peking University</p>
+      <a href="mailto:jingzhiwen@pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/swh.png" alt="Wenhao Sun">
+    </div>
+    <div class="content">
+      <h4>Wenhao Sun (孙文浩)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p style="font-size:90%">MSc, Biophysics, University of Chinese Academy of Sciences</p>
+      <p style="font-size:90%">BSc, Biotechnology, Jiangnan University</p>
+      <a href="mailto:sunwenhao_0716@163.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
       <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="Yige Xie">
     </div>
     <div class="content">
