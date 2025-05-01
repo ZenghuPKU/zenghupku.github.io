@@ -8,7 +8,7 @@ permalink: /publications
 
 ### 2025
 
-T Hui#, J Zhou#, M Yao, Y Xie, **H Zeng**\*. [Advances in spatial omics technologies.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202401171) **Small Methods** (2025), e2401171. [get the PDF]({{ site.url }}/assets/2025_Small_Methods.pdf)
+T Hui#, J Zhou#, M Yao, Y Xie, **H Zeng**\*. [Advances in spatial omics technologies.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202401171) **Small Methods** (2025), e2401171. (Review)[get the PDF]({{ site.url }}/assets/2025_Small_Methods.pdf)
 
 D Bai#, J Yang#, X Xue#, Y Gao#, Y Wang, M Cui, B He, **H Zeng**, H Xiang, Z Guo, L Zhu, J Gao, C Zhu\*, F Tang\*, C Yi\*. [Single-cell 5-hydroxymethylcytosine landscapes of mouse early embryos at single-base resolution.](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00291-8?uuid=uuid%3A9e359dd3-41c8-4688-b106-e07ac3ed2527) **Cell Rep.** (2025) 44, 115520. [get the PDF]({{ site.url }}/assets/2025Cellreports.pdf)
 
