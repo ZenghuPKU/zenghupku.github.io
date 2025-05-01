@@ -208,7 +208,7 @@ table {
     </div>
     <div class="content">
       <h4>Muchen Yao (姚慕晨)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern (incoming PhD student)</p>
       <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricultural University</p>
       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
@@ -241,13 +241,14 @@ table {
 
   <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/xyg.png" alt="Yige Xie">
+      <img src="{{site.baseurl}}/assets/img/team/zky.png" alt="Keyao Zhu">
     </div>
     <div class="content">
-      <h4>Yige Xie (谢弋戈)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern</p>
-      <p style="font-size:90%">Undergraduate, Nursing, Peking University</p>
-      <a href="mailto:2110108307@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+      <h4>Keyao Zhu (朱珂瑶)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern (incoming PhD student)</p>
+      <p style="font-size:90%">Undergraduate, Bioinformatics, Soochow University</p>
+      <a href="https://github.com/askingkey" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="mailto:keyzh99@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
 </ul>
