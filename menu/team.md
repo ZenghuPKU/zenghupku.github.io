@@ -251,6 +251,30 @@ table {
       <a href="mailto:keyzh99@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/zcx.png" alt="Chenxi Zhu">
+    </div>
+    <div class="content">
+      <h4>Chenxi Zhu (诸晨希)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, Pharmacy, China Pharmaceutical University</p>
+      <a href="mailto:chenxi_zhu@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+      
+  </li>
+    <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/zlx.png" alt="Lingxuan Zhang">
+    </div>
+    <div class="content">
+      <h4>Lingxuan Zhang (张灵轩)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Research Intern (incoming PhD student)</p>
+      <p style="font-size:90%">Undergraduate, Forensic Medicine, Sichuan University</p>
+      <a href="mailto:zhanglingxuan1107@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
 </ul>
 
 <h2 align="center">Alumni</h2>
