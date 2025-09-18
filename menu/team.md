@@ -196,7 +196,7 @@ table {
     <div class="content">
       <h4>Haojun Yao (姚昊君)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">BSc Chemistry, Hunan University</p>
+      <p style="font-size:90%">BSc, Chemistry, Hunan University</p>
       <a href="https://www.cnblogs.com/sylvanyao" target="_blank">Personal blog</a>
       <a href="mailto:yaohaojun@hnu.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
@@ -209,7 +209,7 @@ table {
     <div class="content">
       <h4>Muchen Yao (姚慕晨)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Undergraduate, Biological Sciences, China Agricultural University</p>
+      <p style="font-size:90%">BSc, Biological Sciences, China Agricultural University</p>
       <a href="mailto:2297057112@qq.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
@@ -246,7 +246,7 @@ table {
     <div class="content">
       <h4>Keyao Zhu (朱珂瑶)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Undergraduate, Bioinformatics, Soochow University</p>
+      <p style="font-size:90%">BSc, Bioinformatics, Soochow University</p>
       <a href="https://github.com/askingkey" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
       <a href="mailto:keyzh99@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
@@ -271,7 +271,7 @@ table {
     <div class="content">
       <h4>Lingxuan Zhang (张灵轩)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Undergraduate, Forensic Medicine, Sichuan University</p>
+      <p style="font-size:90%">BSc, Forensic Medicine, Sichuan University</p>
       <a href="mailto:zhanglingxuan1107@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
 
@@ -283,7 +283,7 @@ table {
     <div class="content">
       <h4>Qingchuan Ma (马晴川)</h4>
       <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">Undergraduate, Forensic Medicine, Sichuan University</p>
+      <p style="font-size:90%">BSc, Plant Science and Technology, Shanghai Jiao Tong University</p>
       <a href="mailto:2501112612@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
