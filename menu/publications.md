@@ -6,6 +6,12 @@ permalink: /publications
 
 <h1 align="center">Publications</h1>
 
+### 2026
+
+J Ren#, **H Zeng**\*, J Huang#, J Tian, M Wu, H Shi, X Sui, C K Wang, H Zhou, Z Tang, S Luo, X Wang*. [Spatially resolved in situ profiling of mRNA life cycle at transcriptome scale in intact cells and tissues using STARmap PLUS, RIBOmap and TEMPOmap.](https://www.nature.com/articles/s41596-025-01248-3)￼**Nat. Protoc.** (2026) 21, 1629–1661. [get the PDF]({{ site.url }}/assets/2026natureprotocols.pdf)
+
+---
+
 ### 2025
 
 T Hui#, J Zhou#, M Yao, Y Xie, **H Zeng**\*. [Advances in spatial omics technologies.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202401171) **Small Methods** (2025), e2401171. (Review)[get the PDF]({{ site.url }}/assets/2025_Small_Methods.pdf)
