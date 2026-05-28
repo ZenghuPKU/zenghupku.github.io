@@ -7,11 +7,11 @@ permalink: /publications
 <h1 align="center">Publications</h1>
 ### 2026
 
-H Zhang#, Z Zhang#, P Wang#, T Xu, X Chen, Y Zhao, S Lin, W Cai, P Ren, C Luo, P Zhang, Y Wang, S Hou, Y Zhao, **H Zeng**\*, Z Liu, C Wang, Z Gao, Y Feng\*, D Pan\*, Z Zeng\*. [Uncovering spatially resolved functional genomics with CRISPR screen sequencing.](https://www.sciencedirect.com/science/article/pii/S0092867426005167)￼**Cell** (2026), online ahead of print. DOI: 10.1016/j.cell.2026.04.049. [get the PDF]({{ site.url }}/assets/2026cell.pdf)
+H Zhang#, Z Zhang#, P Wang#, T Xu, X Chen, Y Zhao, S Lin, W Cai, P Ren, C Luo, P Zhang, Y Wang, S Hou, Y Zhao, **H Zeng**\*, Z Liu, C Wang, Z Gao, Y Feng\*, D Pan\*, Z Zeng\*. [Uncovering spatially resolved functional genomics with CRISPR screen sequencing.](https://www.sciencedirect.com/science/article/pii/S0092867426005167) **Cell** (2026), online ahead of print. DOI: 10.1016/j.cell.2026.04.049. [get the PDF]({{ site.url }}/assets/2026cell.pdf)
 
 C Luo#, C Cheng#, X Zhao#, J Zhou#, Z Jing, Q Ma, L Ye, K Zhu, L Zhao, H Xu, **H Zeng**\*. [Targeting cancer-associated cell surface RNAs with oligonucleotide-drug conjugates enables broad antitumor activity.](https://www.biorxiv.org/content/10.64898/2026.05.08.723688v1) **bioRxiv** (2026), 2026.05.08.723688. [get the PDF]({{ site.url }}/assets/2026biorxiv.pdf)
 
-J Ren#, **H Zeng#**, J Huang#, J Tian, M Wu, H Shi, X Sui, C K Wang, H Zhou, Z Tang, S Luo, X Wang\*. [Spatially resolved in situ profiling of mRNA life cycle at transcriptome scale in intact cells and tissues using STARmap PLUS, RIBOmap and TEMPOmap.](https://www.nature.com/articles/s41596-025-01248-3)￼**Nat. Protoc.** (2026) 21, 1629–1661. [get the PDF]({{ site.url }}/assets/2026natureprotocols.pdf)
+J Ren#, **H Zeng#**, J Huang#, J Tian, M Wu, H Shi, X Sui, C K Wang, H Zhou, Z Tang, S Luo, X Wang\*. [Spatially resolved in situ profiling of mRNA life cycle at transcriptome scale in intact cells and tissues using STARmap PLUS, RIBOmap and TEMPOmap.](https://www.nature.com/articles/s41596-025-01248-3) **Nat. Protoc.** (2026) 21, 1629–1661. [get the PDF]({{ site.url }}/assets/2026natureprotocols.pdf)
 
 ---
 
