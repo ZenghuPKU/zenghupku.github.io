@@ -287,6 +287,32 @@ table {
       <a href="mailto:2501112612@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
   </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/syk.png" alt="Yukang Shan">
+    </div>
+    <div class="content">
+      <h4>Yukang Shan (单与康)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, Yuanpei College, Peking University</p>
+      <a href="mailto:shanyukang@163.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/jwr.png" alt="Wenrui Jiang">
+    </div>
+    <div class="content">
+      <h4>Wenrui Jiang (蒋雯睿)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, Basic Medicine, Sun Yat-Sen University</p>
+      <a href="mailto:jiangwr79@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+      
+  </li>
+  
 </ul>
 
 <h2 align="center">Alumni</h2>
