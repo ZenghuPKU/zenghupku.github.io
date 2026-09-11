@@ -315,6 +315,31 @@ table {
     </div>
       
   </li>
+
+    <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/gjp.jpg" alt="Jinpu Guo">
+    </div>
+    <div class="content">
+      <h4>Jinpu Guo (郭晋朴)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, College of Life Science, Wuhan University</p>
+      <a href="mailto:2601112624@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+
+  <li>
+    <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/zhurui.jpg" alt="Rui Zhu">
+    </div>
+    <div class="content">
+      <h4>Rui Zhu (祝瑞)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
+      <p style="font-size:90%">BSc, Bioinformatics, Huazhong University of Science and Technology</p>
+      <a href="https://github.com/1508324011" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+      <a href="mailto:zhur26@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
   
 </ul>
 
