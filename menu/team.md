@@ -216,7 +216,7 @@ table {
 
   <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/jzw.png" alt="Zhiwen Jing">
+      <img src="{{site.baseurl}}/assets/img/team/jzw.jpg" alt="Zhiwen Jing">
     </div>
     <div class="content">
       <h4>Zhiwen Jing (景智文)</h4>
@@ -241,7 +241,7 @@ table {
 
   <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/zky.png" alt="Keyao Zhu">
+      <img src="{{site.baseurl}}/assets/img/team/zky.jpg" alt="Keyao Zhu">
     </div>
     <div class="content">
       <h4>Keyao Zhu (朱珂瑶)</h4>
@@ -278,7 +278,7 @@ table {
   </li>
     <li>
     <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/mqc.png" alt="Qingchuan Ma">
+      <img src="{{site.baseurl}}/assets/img/team/mqc.jpg" alt="Qingchuan Ma">
     </div>
     <div class="content">
       <h4>Qingchuan Ma (马晴川)</h4>
