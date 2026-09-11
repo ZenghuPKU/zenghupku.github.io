@@ -313,10 +313,9 @@ table {
       <p style="font-size:90%">BSc, Basic Medicine, Sun Yat-Sen University</p>
       <a href="mailto:jiangwr79@gmail.com" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     </div>
-      
   </li>
 
-    <li>
+  <li>
     <div class="imgWrap">
       <img src="{{site.baseurl}}/assets/img/team/gjp.jpg" alt="Jinpu Guo">
     </div>
