@@ -58,6 +58,8 @@ permalink: /blog
     <img src="{{site.baseurl}}/assets/img/gallery/grass.jpg" alt="Image 2">
     <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Image 3">
     <img src="{{site.baseurl}}/assets/img/gallery/island.jpg" alt="Image 4">
+    <img src="{{site.baseurl}}/assets/img/gallery/lake.jpeg" alt="Image 5">
+    <img src="{{site.baseurl}}/assets/img/gallery/jingyuan.jpeg" alt="Image 6">
 </div>
 
 <div class="thumbnail-container">
@@ -65,6 +67,8 @@ permalink: /blog
     <img src="{{site.baseurl}}/assets/img/gallery/grass.jpg" alt="Thumbnail 2" data-index="1">
     <img src="{{site.baseurl}}/assets/img/gallery/clean.JPG" alt="Thumbnail 3" data-index="2">
     <img src="{{site.baseurl}}/assets/img/gallery/island.jpg" alt="Thumbnail 4" data-index="3">
+    <img src="{{site.baseurl}}/assets/img/gallery/lake.jpeg" alt="Thumbnail 5" data-index="3">
+    <img src="{{site.baseurl}}/assets/img/gallery/jingyuan.jpeg" alt="Thumbnail 6" data-index="3">
 </div>
 
 <script>
