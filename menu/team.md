@@ -115,6 +115,20 @@ table {
 
   <li>
     <div class="imgWrap">
+      <img src="{{site.baseurl}}/assets/img/team/lc.png" alt="Cheng Luo">
+    </div>
+    <div class="content">
+      <h4>Cheng Luo (罗成)</h4>
+      <p class="text-muted" style="font-size:90%;line-height: 1em;">Postdoctoral Fellow</p>
+      <p style="font-size:90%">PhD, Biology, Peking University</p>
+      <p style="font-size:90%">MSc, Genetics, Huazhong Agricultural University</p>
+      <p style="font-size:90%">BSc, Biotechnology, Huazhong Agricultural University</p>
+      <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    </div>
+  </li>
+  
+  <li>
+    <div class="imgWrap">
       <img src="{{site.baseurl}}/assets/img/team/cc.png" alt="Chen Cheng">
     </div>
     <div class="content">
@@ -140,18 +154,7 @@ table {
     </div>
   </li>
 
-  <li>
-    <div class="imgWrap">
-      <img src="{{site.baseurl}}/assets/img/team/lc.png" alt="Cheng Luo">
-    </div>
-    <div class="content">
-      <h4>Cheng Luo (罗成)</h4>
-      <p class="text-muted" style="font-size:90%;line-height: 1em;">PhD student</p>
-      <p style="font-size:90%">MSc, Genetics, Huazhong Agricultural University</p>
-      <p style="font-size:90%">BSc, Biotechnology, Huazhong Agricultural University</p>
-      <a href="mailto:cluo@stu.pku.edu.cn" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-    </div>
-  </li>
+
 
   <li>
     <div class="imgWrap">
